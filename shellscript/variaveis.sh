@@ -19,3 +19,5 @@ echo "$TOTAL"
 SAIDA_CAT=$(cat /etc/passwd | grep paulo)
 
 echo "$SAIDA_CAT"
+
+# hehehe
