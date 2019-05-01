@@ -9,4 +9,4 @@ do
                 echo "O número $indice não é divisível por 2."
         fi
 done
-echo "Este programa foi executado pelo usuário: $USERNAME"
+echo "Este programa foi executado pelo usuário: $LOGNAME"
