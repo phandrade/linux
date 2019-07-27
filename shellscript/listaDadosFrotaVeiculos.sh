@@ -2,6 +2,10 @@
 #
 # listaDadosFrotaVeiculos.sh - Extrai dados de uma lista de veiculos
 # extraida do portal da transparencia do estado de minas gerais
+# link para arquivo: https://dadosabertos.tce.mg.gov.br/ -> selecionar
+# municipio de senhora do porto e selecionar exercicio de 2018
+# selecionar arquivo csv da frota.
+# Substituir o ponto e virgula por virgula no arquivo :)
 #
 # Site:       http://meuinstrumento.com/portfolio/
 # Autor:      Paulo Andrade
@@ -26,7 +30,6 @@
 #   bash 4.3.48
 # ------------------------------------------------------------------------ #
 # Agradecimentos:
-#
 # 	Mateus Muller - Pelo compartilhamento do conhecimento.
 # ------------------------------------------------------------------------ #
 
